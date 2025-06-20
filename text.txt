@@ -5,3 +5,19 @@ git status
 git push origin main
 
 if you modify the file use these step again
+if you delete the file use these step
+
+
+2 back come
+cd .. 
+
+3, to create new folder intial git
+git init
+
+4 if add all the modification 
+git add .
+
+5 to add new respo for new folder
+git remote add origin
+git push origin master  or
+  git branch -M main and give ,git push origin main
